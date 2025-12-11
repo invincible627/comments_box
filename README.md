@@ -1,0 +1,2 @@
+# comments_box
+A simple comment box for Python, without the need to install a library, it works only by running the .py file, in this program you can change comments and add comments. صندوق نظرات ساده برای پایتون، بدون نیاز به نصب کتابخانه، فقط با اجرای فایل .py کار میکنه، توی این برنامه میتونید نظرات رو تغییر بدید و نظر اضافه کنید
